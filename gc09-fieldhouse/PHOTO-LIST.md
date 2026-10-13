@@ -1,6 +1,6 @@
 # FIELDHOUSE — photo list
 
-Template gc9. Photos are placeholders. No generated or downloaded imagery is included. Filenames use the requested `gc9-[short-description].png` format. Save future files under `photos/`. These prompts are reusable across general contractor sites.
+Template gc9. Finished photos are in `photos/` as WebP (full size plus a 900px copy), with sizes and alt text in `photos/photos.json`. Filenames use the requested `gc9-[short-description].png` format. Save future files under `photos/`. These prompts are reusable across general contractor sites.
 
 **The look for every photo on this site:** Homes on rural land: board-and-batten siding in deep forest green or charcoal, galvanized metal roofs, gravel drives, open fields, wood interiors. Professional remodeling-portfolio photography, exactly like the project photos on the websites of top design-build firms (Airoom, BOWA, Case Architects & Remodelers, Normandy Remodeling, Neil Kelly). Bright, even natural daylight with the room's own lights switched on; balanced exposure so windows show the trees and sky outside instead of glowing white; true, clean colors; straight vertical lines; wide but not distorted; sharp from front to back. Light, believable styling: fresh flowers, a bowl of lemons or green apples, a few cookbooks, a folded towel, never cluttered. Upscale but real materials with real texture: wood grain, stone veining, tile grout lines, brushed brass. Exteriors on a clear day, or at twilight with every interior light on and the sky still blue, with neat lawn and planting.
 
